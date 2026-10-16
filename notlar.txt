@@ -3,3 +3,5 @@
 3. pwd
 4. mkdir
 5. rm
+PR linki alabilmek icin eklendi
+-git merge: iki branch'i birlestirir
