@@ -1,2 +1,2 @@
-# Not Uygulamasi
-Gelistirici: Arda Can Bakir (main versiyonu)
+Not Uygulamasi
+Gelistirici: Arda Can Bakir
